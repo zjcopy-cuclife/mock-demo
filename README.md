@@ -1,19 +1,12 @@
-# mockdemo
+# 使用说明
 
-## Project setup
+## 项目安装、启动、打包
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 关于MOCK如何模拟数据的说明，请参考：
+http://www.zjcopy.com/2019/1107492.html
